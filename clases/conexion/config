@@ -1,0 +1,9 @@
+{
+    "conexion":{
+        "server" : "10.210.2.243",
+        "user" : "entrenamiento",
+        "password" : "C0l0mb142019#*",
+        "database" : "desarrollo_infopos",
+        "port" : "3306"
+    }
+}
